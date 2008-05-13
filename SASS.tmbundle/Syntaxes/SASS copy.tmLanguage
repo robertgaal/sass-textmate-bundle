@@ -5,9 +5,9 @@
 	<key>fileTypes</key>
 	<array/>
 	<key>foldingStartMarker</key>
-	<string>/\*\*|\{\s*$</string>
+	<string>/\*\*|\{\s*$|^#|^\b|^\.</string>
 	<key>foldingStopMarker</key>
-	<string>\*\*/|^\s*\}</string>
+	<string>\*/|^\s*\}|^\s*$</string>
 	<key>name</key>
 	<string>SASS</string>
 	<key>patterns</key>
